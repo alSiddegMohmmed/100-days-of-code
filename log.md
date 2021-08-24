@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: August 24, 2021 
-##### (delete me or comment me out)
+
 
 **Today's Progress**: understading variables, worked with arrays and strings.
 
