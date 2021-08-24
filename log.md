@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 1: August 24, 2021 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: understading variables, worked with arrays and strings.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I really enjoyed the basics of javaScript, I feel like I am slowly getting better at it.
+**Link :**https://twitter.com/Solitudeiskey/status/1430144130374684696?s=20
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
