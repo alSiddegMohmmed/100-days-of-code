@@ -8,14 +8,13 @@
 **Thoughts:** I really enjoyed the basics of javaScript, I feel like I am slowly getting better at it.
 **Link :**https://twitter.com/Solitudeiskey/status/1430144130374684696?s=20
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: August 25, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:  Still working on JavaScript Algorithms and Data Structures #freecodecamp course, I learned more information about arrays and functions. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I'm very excited to complete this course and learn more about JavaScript.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link**: https://twitter.com/Solitudeiskey/status/1430464163407704064?s=20
 
 
 ### Day 1: June 27, Monday
