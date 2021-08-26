@@ -17,12 +17,11 @@
 **Link**: https://twitter.com/Solitudeiskey/status/1430464163407704064?s=20
 
 
-### Day 1: June 27, Monday
+### Day 3: August 26, 2021 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Continuing with JavaScript Algorithms and Data Structures #freecodecamp course. 
+learned about loops for, while, do-while loop, objects, and how to work with them.
+**Thoughts** it feels good to solve algorithms.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Linkk**: https://twitter.com/Solitudeiskey/status/1430922662734352387?s=20
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
