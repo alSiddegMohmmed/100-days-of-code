@@ -48,6 +48,51 @@ learned about loops for, while, do-while loop, objects, and how to work with the
 
 **Thoughts** It was very interesting grasping the fundamentals of JavaScript.
 
-**Linkk**: https://twitter.com/Solitudeiskey/status/1432118742251675651?s=20
+**Link**: https://twitter.com/Solitudeiskey/status/1432118742251675651?s=20
 
 
+### Day 7: August 30, 2021 
+
+**Today's Progress**: Learning more about JavaScript!.
+
+**Thoughts** no thoughts just coding today.
+
+**Link**: https://twitter.com/Solitudeiskey/status/1432513599071821824?s=20
+
+
+### Day 8: August 31, 2021 
+
+**Today's Progress**: Practiced more on JavaScript, 
+Soon I will start building projects to practice more.
+
+**Thoughts** can't wait to build projects.
+
+**Link**: https://twitter.com/Solitudeiskey/status/1432884661559119873?s=20
+
+
+### Day 9: September 1, 2021 
+
+**Today's Progress**: I read many articles about javaScript I used http://javascript.info 
+it has everything you need to know about javaScript
+
+**Thoughts** 
+
+**Link**: https://twitter.com/Solitudeiskey/status/1433247732903329792?s=20
+
+
+### Day 10: September 2, 2021 
+
+**Today's Progress**: today was a productive day, I completed the fundamentals of JavaScript, it was pretty exciting to know all this information about javaScript, I practiced with for loops and while loops, switch statements, and also learned a big bunch of Functions.
+
+**Thoughts** It was very interesting grasping the fundamentals of JavaScript.
+
+**Link**: https://twitter.com/Solitudeiskey/status/1433585435863830532?s=20
+
+
+### Day 11: September 3, 2021 
+
+**Today's Progress**: - Took some tests to develop my understanding for Objects
+
+**Thoughts** 
+
+**Link**: https://twitter.com/Solitudeiskey/status/1433961194197594117?s=20
